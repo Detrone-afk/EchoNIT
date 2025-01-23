@@ -29,7 +29,11 @@ Cross-platform: Accessible from both web and mobile devices for seamless communi
 
 Technologies Used:
 Frontend: React.js for building a dynamic user interface.
+
 Backend: Node.js and Express.js for building the RESTful API.
+
 Database: MongoDB for data storage (user data, messages, etc.).
+
 Real-time Communication: Socket.io for WebSocket-based real-time messaging.
+
 Authentication: JWT (JSON Web Tokens) for secure login and session management.
