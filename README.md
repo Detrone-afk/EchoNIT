@@ -12,13 +12,21 @@ With a clean user interface and secure backend, IntraNIT is perfect for teams, o
 
 Key Features:
 Real-time Messaging: Send and receive messages instantly using WebSockets (Socket.io) for low-latency communication.
+
 User Authentication: Secure login and session management via JWT (JSON Web Tokens).
+
 Multi-Channel Support: Create and manage public and private groups for organized conversations.
+
 Media Sharing: Share images, files, and documents directly in the chat.
+
 Push Notifications: Receive instant notifications for new messages or important activities.
+
 Message History: Access your past conversations with a robust MongoDB backend.
+
 Scalability: Easily deployable for small to large scale applications with the power of the MERN stack.
+
 Cross-platform: Accessible from both web and mobile devices for seamless communication on the go.
+
 Technologies Used:
 Frontend: React.js for building a dynamic user interface.
 Backend: Node.js and Express.js for building the RESTful API.
