@@ -1,12 +1,12 @@
 # EchoNIT
 EchoNIT - Messaging App
-Project Descriptio
+Project Description
 
 
 "EchoNIT" symbolizes a platform for internal communication and collaboration exclusively within NIT Delhi. It emphasizes connectivity and interaction among students, staff, and faculty members inside the institution.
 EchoNIT is a robust and easy-to-use real-time messaging application built with the MERN stack (MongoDB, Express.js, React, Node.js). It’s designed to provide an efficient platform for communication, enabling users to send direct messages, share files, and engage in group discussions.
 
-With a clean user interface and secure backend, IntraNIT is perfect for teams, organizations, and universities to communicate effectively. The app is highly scalable, flexible, and provides key features like real-time messaging, media sharing, and notifications.
+With a clean user interface and secure backend, EchoNIT is perfect for teams, organizations, and universities to communicate effectively. The app is highly scalable, flexible, and provides key features like real-time messaging, media sharing, and notifications.
 
 Key Features:
 Real-time Messaging: Send and receive messages instantly using WebSockets (Socket.io) for low-latency communication.
