@@ -1,37 +1,50 @@
-# EchoNIT
-EchoNIT - Messaging App
-Project Description
+# Welcome to your Expo app 👋
 
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-"EchoNIT" symbolizes a platform for internal communication and collaboration exclusively within NIT Delhi. It emphasizes connectivity and interaction among students, staff, and faculty members inside the institution.
-EchoNIT is a robust and easy-to-use real-time messaging application built with the MERN stack (MongoDB, Express.js, React, Node.js). It’s designed to provide an efficient platform for communication, enabling users to send direct messages, share files, and engage in group discussions.
+## Get started
 
-With a clean user interface and secure backend, EchoNIT is perfect for teams, organizations, and universities to communicate effectively. The app is highly scalable, flexible, and provides key features like real-time messaging, media sharing, and notifications.
+1. Install dependencies
 
-Key Features:
-Real-time Messaging: Send and receive messages instantly using WebSockets (Socket.io) for low-latency communication.
+   ```bash
+   npm install
+   ```
 
-User Authentication: Secure login and session management via JWT (JSON Web Tokens).
+2. Start the app
 
-Multi-Channel Support: Create and manage public and private groups for organized conversations.
+   ```bash
+    npx expo start
+   ```
 
-Media Sharing: Share images, files, and documents directly in the chat.
+In the output, you'll find options to open the app in a
 
-Push Notifications: Receive instant notifications for new messages or important activities.
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-Message History: Access your past conversations with a robust MongoDB backend.
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-Scalability: Easily deployable for small to large scale applications with the power of the MERN stack.
+## Get a fresh project
 
-Cross-platform: Accessible from both web and mobile devices for seamless communication on the go.
+When you're ready, run:
 
-Technologies Used:
-Frontend: React.js for building a dynamic user interface.
+```bash
+npm run reset-project
+```
 
-Backend: Node.js and Express.js for building the RESTful API.
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-Database: MongoDB for data storage (user data, messages, etc.).
+## Learn more
 
-Real-time Communication: Socket.io for WebSocket-based real-time messaging.
+To learn more about developing your project with Expo, look at the following resources:
 
-Authentication: JWT (JSON Web Tokens) for secure login and session management.
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
